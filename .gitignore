@@ -1,0 +1,26 @@
+# Ignore model directories
+models/*
+checkpoints/
+weights/
+
+
+# Ignore common ML model file types
+*.pt
+*.pth
+*.h5
+*.ckpt
+*.bin
+*.safetensors
+
+# Ignore large datasets
+data/
+datasets/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+.venv/
+env/
+

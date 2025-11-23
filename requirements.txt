@@ -1,0 +1,8 @@
+requests
+torch 
+torchvision 
+torchaudio
+transformers
+numpy
+spacy
+sentence-transformers
